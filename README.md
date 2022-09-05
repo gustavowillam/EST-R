@@ -12,8 +12,3 @@
 
 * ### [Lista de Exercicios no R](https://github.com/gustavowillam/AEDII/blob/main/programas/Aula01_L2.R)
 
-
-
-
-
-
