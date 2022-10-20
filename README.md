@@ -35,3 +35,20 @@
 ## [Aula 02 - Est. I - Estatística Descritiva - Lista 04 2021](https://github.com/gustavowillam/AEDII/blob/main/Estatistica_I/4-Estat%C3%ADstica%20Descritiva%20-%20Aula%204-Lista%20de%20Exerc%C3%ADcios%202021.pdf)
 
 * ### [Resolução Lista de Exercicios no R: Estatística Descritiva - Lista 04 2021](https://github.com/gustavowillam/AEDII/blob/main/programas/Aula02_L4_2021.R)
+
+
+## [Lista de Exercicio 1 - Atividade Avaliativa 1 - Est. I](https://github.com/gustavowillam/AEDII/blob/main/Estatistica_I/Atividade%20Avaliativa%202022%20-%20Somatorio%20Produtorio%20Est%20Descritiva-Lista%201.pdf)
+
+### Resolver no R todos os exercícios da Lista acima, exceto o nr. 3
+
+## [Lista de Exercicio 2 - Prova 1 - Est. I](https://github.com/gustavowillam/AEDII/blob/main/Estatistica_I/Atividade%20Avaliativa%202022%20-%20Somatorio%20Produtorio%20Est%20Descritiva-Prova%201.pdf)
+
+### Resolver no R todos os exercícios da Prova acima, exceto o nr. 2
+
+
+
+
+
+
+
+
