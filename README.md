@@ -40,14 +40,8 @@
 
 * ### [Resolução Lista de Exercicios no R: Estatística Descritiva (Medidas de Dispersão) - Lista 04 2021](https://github.com/gustavowillam/AEDII/blob/main/programas/Aula02_L4_2021.R)
 
-# Estatística II
 
-## [Aula 03 - Testes de Hipotese - Lista 01 2021]()
-
-* ### [Resolução Lista de Exercicios no R: Testes de Hipotese - Lista 01 2021]()
-
-
-## Listas de Exercícios 
+## Listas de Exercícios - Estatística I 
 
 ## [Lista de Exercicio 1 - Atividade Avaliativa 1 - Est. I](https://github.com/gustavowillam/AEDII/blob/main/Estatistica_I/Atividade%20Avaliativa%202022%20-%20Somatorio%20Produtorio%20Est%20Descritiva-Lista%201.pdf)
 
@@ -55,7 +49,20 @@
 
 ## [Lista de Exercicio 2 - Prova 1 - Est. I](https://github.com/gustavowillam/AEDII/blob/main/Estatistica_I/Atividade%20Avaliativa%202022%20-%20Somatorio%20Produtorio%20Est%20Descritiva-Prova%201.pdf)
 
-### Resolver no R todos os exercícios da Prova acima, exceto o nr. 2. Data da Entrega: 03/11/2022 
+
+
+# Estatística II
+
+## Testes de Hipotese 
+
+## [Aula 03 - Testes de Hipotese - Lista 01 2021]()
+
+* ### [Resolução Lista de Exercicios no R: Testes de Hipotese - Lista 01 2021]()
+
+
+## Listas de Exercícios - Estatística II 
+
+### Resolver no R todos os exercícios da Prova acima. Data da Entrega: 17/11/2022 
 
 ## [Lista de Exercicio 3 - Prova 1 - Est. II]()
 
