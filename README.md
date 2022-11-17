@@ -76,4 +76,4 @@
 
 ## [Lista de Exercicio 3 - Prova 1 - Est. II](https://github.com/gustavowillam/AEDII/blob/main/Estatistica_II/Atividade%20Avaliativa%202022%20-%20Prova%201%20-%20Testes%20de%20Hipoteses.pdf)
 
-### Resolver no R todos os exercícios da Prova acima. Data da Entrega: 24/11/2022
+### Resolver no R todos os exercícios da Prova acima. Data da Entrega: 25/11/2022
