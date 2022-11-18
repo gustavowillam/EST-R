@@ -56,16 +56,15 @@
 
 ## Testes de Hipotese 
 
-## [Aula 03 - Testes de Hipotese - Lista 01 2021](https://github.com/gustavowillam/AEDII/blob/main/Estatistica_II/Aula%201-Teste%20de%20Hip%C3%B3teses-Lista%20de%20Exerc%C3%ADcios%202021.pdf)
+## [Aula 03 - Testes de Hipotese - Lista 01 2021](https://github.com/gustavowillam/AEDII/blob/main/Estatistica_II/Teste_Hipotese/Aula%201-Teste%20de%20Hip%C3%B3teses-Lista%20de%20Exerc%C3%ADcios%202021.pdf)
 
 * ### [Resolução Lista de Exercicios no R: Testes de Hipotese - Lista 01 2021](https://github.com/gustavowillam/AEDII/blob/main/programas/Aula03_L1_2021.R)
 
-
-## [Aula 03 - Testes de Hipotese - Lista 02 2021](https://github.com/gustavowillam/AEDII/blob/main/Estatistica_II/Aula%202-Teste%20de%20Hip%C3%B3teses-Lista%20de%20Exerc%C3%ADcios%202021.pdf)
+## [Aula 03 - Testes de Hipotese - Lista 02 2021](https://github.com/gustavowillam/AEDII/blob/main/Estatistica_II/Teste_Hipotese/Aula%202-Teste%20de%20Hip%C3%B3teses-Lista%20de%20Exerc%C3%ADcios%202021.pdf)
 
 * ### [Resolução Lista de Exercicios no R: Testes de Hipotese - Lista 02 2021](https://github.com/gustavowillam/AEDII/blob/main/programas/Aula03_L2_2021.R)
 
-## [Aula 03 - Testes de Hipotese - Lista 03 2021](https://github.com/gustavowillam/AEDII/blob/main/Estatistica_II/Aula%203-Teste%20de%20Hip%C3%B3teses-Lista%20de%20Exerc%C3%ADcios%202021.pdf)
+## [Aula 03 - Testes de Hipotese - Lista 03 2021](https://github.com/gustavowillam/AEDII/blob/main/Estatistica_II/Teste_Hipotese/Aula%203-Teste%20de%20Hip%C3%B3teses-Lista%20de%20Exerc%C3%ADcios%202021.pdf)
 
 * ### [Resolução Lista de Exercicios no R: Testes de Hipotese - Lista 03 2021](https://github.com/gustavowillam/AEDII/blob/main/programas/Aula03_L3_2021.R)
 
@@ -74,6 +73,6 @@
 
 ## Atividades Avaliativas - Estatística II 
 
-## [Lista de Exercicio 3 - Prova 1 - Est. II](https://github.com/gustavowillam/AEDII/blob/main/Estatistica_II/Atividade%20Avaliativa%202022%20-%20Prova%201%20-%20Testes%20de%20Hipoteses.pdf)
+## [Lista de Exercicio 3 - Prova 1 - Est. II](https://github.com/gustavowillam/AEDII/blob/main/Estatistica_II/Teste_Hipotese/Atividade%20Avaliativa%202022%20-%20Prova%201%20-%20Testes%20de%20Hipoteses.pdf)
 
 ### Resolver no R todos os exercícios da Prova acima. Data da Entrega: 25/11/2022
