@@ -1,8 +1,8 @@
 # Algoritmos e Estrutura de Dados II - Material das Aulas
 
-## [Aula 00 - Introdução ao R](https://github.com/gustavowillam/AEDII/blob/main/slides/1-Apresentacao%20Disciplina.pdf)
+## [Aula 00 - Introdução ao R](https://github.com/gustavowillam/AEDII/blob/main/R_Basico/1-Apresentacao%20Disciplina.pdf)
 
-* ### [Comandos básicos no R](https://github.com/gustavowillam/AEDII/blob/main/programas/Aula00_R_basico.R)
+* ### [Comandos básicos no R](https://github.com/gustavowillam/AEDII/blob/main/R_Basico/Aula00_R_basico.R)
 
 # Estatística I
 
@@ -26,7 +26,7 @@
 
 ## [Aula 02 - Distribuição de Frequência - Lista 02 2021](https://github.com/gustavowillam/AEDII/blob/main/Estatistica_I/2-Estat%C3%ADstica%20Descritiva%20-%20Aula%202-Lista%20de%20Exerc%C3%ADcios%202021.pdf)
 
-* ### [Paleta de Cores do R](https://github.com/gustavowillam/AEDII/blob/main/slides/R_colorPaletteCheatsheet.pdf)
+* ### [Paleta de Cores do R](https://github.com/gustavowillam/AEDII/blob/main/R_Basico/R_colorPaletteCheatsheet.pdf)
 
 * ### [Resolução Lista de Exercicios no R: Distribuição de Frequência - Lista 02 2021](https://github.com/gustavowillam/AEDII/blob/main/programas/Aula02_L2_2021.R)
 
