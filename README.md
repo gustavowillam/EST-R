@@ -75,4 +75,8 @@
 
 ## [Lista de Exercicio 3 - Prova 1 - Est. II](https://github.com/gustavowillam/AEDII/blob/main/Estatistica_II/Teste_Hipotese/Atividade%20Avaliativa%202022%20-%20Prova%201%20-%20Testes%20de%20Hipoteses.pdf)
 
-### Resolver no R todos os exercícios da Prova acima. Data da Entrega: 25/11/2022
+### Resolver no R todos os exercícios da Lista acima. Data da Entrega: 25/11/2022
+
+## [Lista de Exercicio 4 - Atividade Avaliativa 1 - Est. II](https://github.com/gustavowillam/AEDII/blob/main/Estatistica_II/Regressao_Linear_Simples/Aula%201-Regress%C3%A3o%20Linear%20Simples-Lista%20de%20Exerc%C3%ADcios%202022.pdf)
+
+### Resolver no R todos os exercícios da Lista acima. Data da Entrega: 08/12/2022
