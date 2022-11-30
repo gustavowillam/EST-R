@@ -82,6 +82,16 @@
 * ### [Resolução Lista de Exercicios no R: Regressão Linear Simples - Lista 02 2021](https://github.com/gustavowillam/AEDII/blob/main/Estatistica_II/Regressao_Linear_Simples/Aula04_L2.R)
 
 
+## Regressão Linear Múltipla 
+
+## [Aula 05 - Regressão Linear Múltipla - Lista 01 2021]()
+
+* ### [Resolução Lista de Exercicios no R: Regressão Linear Múltipla - Lista 01 2021]()
+
+## [Aula 05 - Regressão Linear Múltipla - Lista 02 2021]()
+
+* ### [Resolução Lista de Exercicios no R: Regressão Linear Múltipla - Lista 02 2021]()
+
 
 ## Atividades Avaliativas - Estatística II 
 
