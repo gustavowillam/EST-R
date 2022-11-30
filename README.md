@@ -71,6 +71,18 @@
 * ### [Resolução Lista de Exercicios no R: Testes de Hipotese - Lista 04 2021](https://github.com/gustavowillam/AEDII/blob/main/Estatistica_II/Teste_Hipotese/Aula03_L4_2021.R)
 
 
+## Regressão Linear Simples 
+
+## [Aula 04 - Regressão Linear Simples - Lista 01 2021](https://github.com/gustavowillam/AEDII/blob/main/Estatistica_II/Regressao_Linear_Simples/Aula%201-Regress%C3%A3o%20Linear%20Simples-Lista%20de%20Exerc%C3%ADcios%202021.pdf)
+
+* ### [Resolução Lista de Exercicios no R: Regressão Linear Simples - Lista 01 2021](https://github.com/gustavowillam/AEDII/blob/main/Estatistica_II/Regressao_Linear_Simples/Aula04_L1.R)
+
+## [Aula 04 - Regressão Linear Simples - Lista 02 2021](https://github.com/gustavowillam/AEDII/blob/main/Estatistica_II/Regressao_Linear_Simples/Aula%202-Regress%C3%A3o%20Linear%20Simples-Lista%20de%20Exerc%C3%ADcios%202021.pdf)
+
+* ### [Resolução Lista de Exercicios no R: Regressão Linear Simples - Lista 02 2021](https://github.com/gustavowillam/AEDII/blob/main/Estatistica_II/Regressao_Linear_Simples/Aula04_L2.R)
+
+
+
 ## Atividades Avaliativas - Estatística II 
 
 ## [Lista de Exercicio 3 - Prova 1 - Est. II](https://github.com/gustavowillam/AEDII/blob/main/Estatistica_II/Teste_Hipotese/Atividade%20Avaliativa%202022%20-%20Prova%201%20-%20Testes%20de%20Hipoteses.pdf)
