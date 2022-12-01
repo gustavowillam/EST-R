@@ -101,4 +101,4 @@
 
 ## [Lista de Exercicio 4 - Atividade Avaliativa 1 - Est. II](https://github.com/gustavowillam/AEDII/blob/main/Estatistica_II/Regressao_Linear_Simples/Aula%201-Regress%C3%A3o%20Linear%20Simples-Lista%20de%20Exerc%C3%ADcios%202022.pdf)
 
-### Resolver no R todos os exercícios da Lista acima. Data da Entrega: 15/12/2022
+### Resolver no R todos os exercícios da Lista acima. Data da Entrega: 11/12/2022
