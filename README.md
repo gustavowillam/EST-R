@@ -84,13 +84,13 @@
 
 ## Regressão Linear Múltipla 
 
-## [Aula 05 - Regressão Linear Múltipla - Lista 01 2021]()
+## [Aula 05 - Regressão Linear Múltipla - Lista 01 2021](https://github.com/gustavowillam/AEDII/blob/main/Estatistica_II/Regressao_Linear_Multipla/Aula%201-Regress%C3%A3o%20Linear%20M%C3%BAltipla-Lista%20de%20Exerc%C3%ADcios%202021.pdf)
 
-* ### [Resolução Lista de Exercicios no R: Regressão Linear Múltipla - Lista 01 2021]()
+* ### [Resolução Lista de Exercicios no R: Regressão Linear Múltipla - Lista 01 2021](https://github.com/gustavowillam/AEDII/blob/main/Estatistica_II/Regressao_Linear_Multipla/Aula05_L1.R)
 
-## [Aula 05 - Regressão Linear Múltipla - Lista 02 2021]()
+## [Aula 05 - Regressão Linear Múltipla - Lista 02 2021](https://github.com/gustavowillam/AEDII/blob/main/Estatistica_II/Regressao_Linear_Multipla/Aula%202-Regress%C3%A3o%20Linear%20M%C3%BAltipla-Lista%20de%20Exerc%C3%ADcios%202021.pdf)
 
-* ### [Resolução Lista de Exercicios no R: Regressão Linear Múltipla - Lista 02 2021]()
+* ### [Resolução Lista de Exercicios no R: Regressão Linear Múltipla - Lista 02 2021](https://github.com/gustavowillam/AEDII/blob/main/Estatistica_II/Regressao_Linear_Multipla/Aula05_L2.R)
 
 
 ## Atividades Avaliativas - Estatística II 
