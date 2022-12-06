@@ -93,6 +93,12 @@
 * ### [Resolução Lista de Exercicios no R: Regressão Linear Múltipla - Lista 02 2021](https://github.com/gustavowillam/AEDII/blob/main/Estatistica_II/Regressao_Linear_Multipla/Aula05_L2.R)
 
 
+## Regressão Polinomial
+
+
+## Regressão Logistica
+
+
 ## Atividades Avaliativas - Estatística II 
 
 ## [Lista de Exercicio 3 - Prova 1 - Est. II](https://github.com/gustavowillam/AEDII/blob/main/Estatistica_II/Teste_Hipotese/Atividade%20Avaliativa%202022%20-%20Prova%201%20-%20Testes%20de%20Hipoteses.pdf)
