@@ -95,6 +95,7 @@
 
 ## Regressão Polinomial
 
+* ### [Resolução Exercicio - dataset Boston House Price](https://github.com/gustavowillam/AEDII/blob/main/Estatistica_II/Regressao_Polinomial/Example_Gustavo_Polinomial.R)
 
 ## Regressão Logistica
 
