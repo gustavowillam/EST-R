@@ -118,7 +118,7 @@
 
 ## Prova Prática - Estatística II & AEDII
 
-## [Prova - Est. II]()
+## [Prova - Est. II](https://github.com/gustavowillam/AEDII/blob/main/Estatistica_II/Regressao_Logistica/PROVA%202%20-%20GTI.pdf)
 
 ## [DataSets Prova - Est. II](https://github.com/gustavowillam/AEDII/blob/main/Estatistica_II/Regressao_Logistica/Datasets_Prova.zip)
 
