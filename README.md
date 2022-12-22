@@ -122,7 +122,4 @@
 
 ## [DataSets Prova - Est. II](https://github.com/gustavowillam/AEDII/blob/main/Estatistica_II/Regressao_Logistica/Datasets_Prova.zip)
 
-
-
-
-
+## [Gabarito Prova - Est. II](https://github.com/gustavowillam/AEDII/blob/main/Estatistica_II/Regressao_Logistica/gabarito_prova.zip)
