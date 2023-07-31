@@ -32,4 +32,3 @@
 
 ## Atividades Avaliativas - Estatística II 
 
-## Prova Prática - Estatística II & AEDII
