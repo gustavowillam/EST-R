@@ -12,8 +12,16 @@
 
 ## Somatório 
 
+## [Aula 01 - Somatório - Lista 2021](https://github.com/gustavowillam/AEDII/blob/main/Estatistica_I/Somatorio_Produtorio/1-Somat%C3%B3rio-Lista%20de%20Exerc%C3%ADcios%202021.pdf)
+
+* ### [Resolução Lista de Exercicios no R: Somatório](https://github.com/gustavowillam/AEDII/blob/main/Estatistica_I/Somatorio_Produtorio/Aula01_L1_2021.R)
+
 ## Produtório 
 
+## [Aula 01 - Produtório - Lista 2021](https://github.com/gustavowillam/AEDII/blob/main/Estatistica_I/Somatorio_Produtorio/2-Produt%C3%B3rio-Lista%20de%20Exerc%C3%ADcios%202021.pdf)
+
+* ### [Resolução Lista de Exercicios no R: Produtório](https://github.com/gustavowillam/AEDII/blob/main/Estatistica_I/Somatorio_Produtorio/Aula01_L2_2021.R)
+  
 ## Distribuição de Frequência
 
 ## Estatística Descritiva
