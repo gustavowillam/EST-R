@@ -28,7 +28,7 @@
 
 ## Atividades Avaliativas - Estatística I 
 
-## [Somatório e Produtório - Lista 2023]()
+## [Somatório e Produtório - Lista 2023](https://github.com/gustavowillam/AEDII/blob/main/Estatistica_I/Somatorio_Produtorio/2023-1%20-%20Somat%C3%B3rio%20e%20Produt%C3%B3rio.pdf)
 
 
 # Estatística II
