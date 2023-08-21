@@ -28,6 +28,9 @@
 
 ## Atividades Avaliativas - Estatística I 
 
+## [Somatório e Produtório - Lista 2023]()
+
+
 # Estatística II
 
 ## Testes de Hipotese 
