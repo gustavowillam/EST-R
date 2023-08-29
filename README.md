@@ -55,6 +55,7 @@
 ### [Lista 2 - Medidas de Dispersão](https://github.com/gustavowillam/AEDII/blob/main/Estatistica_I/Estatistica_Descritiva/2-Estat%C3%ADstica%20Descritiva%20-%20Aula%202-Lista%20de%20Exerc%C3%ADcios%202023.pdf)
 
 ### [Lista 3 - Medidas de Posição e Dispersão](https://github.com/gustavowillam/AEDII/blob/main/Estatistica_I/Estatistica_Descritiva/3-Estat%C3%ADstica%20Descritiva%20-%20Aula%203-Lista%20de%20Exerc%C3%ADcios%202023.pdf)
+Obs: Não fazer exercício 2 da Lista 3
 
 # Estatística II
 
