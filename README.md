@@ -48,13 +48,13 @@
 
 ## [Somatório e Produtório - Lista 2023](https://github.com/gustavowillam/AEDII/blob/main/Estatistica_I/Somatorio_Produtorio/2023-1%20-%20Somat%C3%B3rio%20e%20Produt%C3%B3rio.pdf)
 
-## [Distribuição de Frequência e Estatística Descritiva - Listas 2023]
+## [Estatística Descritiva - Listas 2023]
 
-### [Lista 1](https://github.com/gustavowillam/AEDII/blob/main/Estatistica_I/Estatistica_Descritiva/1-Estat%C3%ADstica%20Descritiva%20-%20Aula%201-Lista%20de%20Exerc%C3%ADcios%202023.pdf)
+### [Lista 1 - Medidas de Posição](https://github.com/gustavowillam/AEDII/blob/main/Estatistica_I/Estatistica_Descritiva/1-Estat%C3%ADstica%20Descritiva%20-%20Aula%201-Lista%20de%20Exerc%C3%ADcios%202023.pdf)
 
-### [Lista 2](https://github.com/gustavowillam/AEDII/blob/main/Estatistica_I/Estatistica_Descritiva/2-Estat%C3%ADstica%20Descritiva%20-%20Aula%202-Lista%20de%20Exerc%C3%ADcios%202023.pdf)
+### [Lista 2 - Medidas de Dispersão](https://github.com/gustavowillam/AEDII/blob/main/Estatistica_I/Estatistica_Descritiva/2-Estat%C3%ADstica%20Descritiva%20-%20Aula%202-Lista%20de%20Exerc%C3%ADcios%202023.pdf)
 
-### [Lista 3](https://github.com/gustavowillam/AEDII/blob/main/Estatistica_I/Estatistica_Descritiva/3-Estat%C3%ADstica%20Descritiva%20-%20Aula%203-Lista%20de%20Exerc%C3%ADcios%202023.pdf)
+### [Lista 3 - Medidas de Posição e Dispersão](https://github.com/gustavowillam/AEDII/blob/main/Estatistica_I/Estatistica_Descritiva/3-Estat%C3%ADstica%20Descritiva%20-%20Aula%203-Lista%20de%20Exerc%C3%ADcios%202023.pdf)
 
 # Estatística II
 
