@@ -60,7 +60,7 @@
 Obs: Não fazer exercício 2, 3
 
 ### [Prova 2 - Estatística Descritiva](https://github.com/gustavowillam/AEDII/blob/main/Estatistica_I/Estatistica_Descritiva/6-Atividade%20Avaliativa%20-%20Prova%202%20-%202023%20-%20Estatistica%20Descritiva.pdf)
-Obs: Não fazer exercício 3a
+Obs: Não fazer exercício 3
 
 
 # Estatística II
