@@ -60,12 +60,17 @@
 Obs: Não fazer exercício 2, 3
 
 ### [Prova 2 - Estatística Descritiva](https://github.com/gustavowillam/AEDII/blob/main/Estatistica_I/Estatistica_Descritiva/6-Atividade%20Avaliativa%20-%20Prova%202%20-%202023%20-%20Estatistica%20Descritiva.pdf)
-Obs: Não fazer exercício 3
+Obs: Não fazer exercício 3a
 
 
 # Estatística II
 
 ## Testes de Hipotese 
+
+
+## [Aula 03 - Testes de Hipotese - Lista 01 2023](https://github.com/gustavowillam/AEDII/blob/main/Estatistica_II/Teste_Hipotese/Aula%201-Teste%20de%20Hip%C3%B3teses-Lista%20de%20Exerc%C3%ADcios%202023.pdf)
+
+## [Aula 03 - Testes de Hipotese - Lista 02 2023](https://github.com/gustavowillam/AEDII/blob/main/Estatistica_II/Teste_Hipotese/Aula%202-Teste%20de%20Hip%C3%B3teses-Lista%20de%20Exerc%C3%ADcios%202023.pdf)
 
 ## Regressão Linear Simples 
 
