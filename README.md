@@ -67,6 +67,7 @@ Obs: Não fazer exercício 3a
 
 ## Testes de Hipotese 
 
+## [Exercícios Resolvidos - Teste t, F, Qui-Quadrado](https://github.com/gustavowillam/AEDII/blob/main/Estatistica_II/Teste_Hipotese/Aula03_L4_2021.R)
 
 ## [Aula 03 - Testes de Hipotese - Lista 01 2023](https://github.com/gustavowillam/AEDII/blob/main/Estatistica_II/Teste_Hipotese/Aula%201-Teste%20de%20Hip%C3%B3teses-Lista%20de%20Exerc%C3%ADcios%202023.pdf)
 
