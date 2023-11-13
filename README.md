@@ -80,11 +80,36 @@ Obs: Não fazer exercício 3a
 
 ## Regressão Linear Simples 
 
+## [Aula 04 - Regressão Linear Simples - Lista 01 2021](https://github.com/gustavowillam/AEDII/blob/main/Estatistica_II/Regressao_Linear_Simples/Aula%201-Regress%C3%A3o%20Linear%20Simples-Lista%20de%20Exerc%C3%ADcios%202021.pdf)
+
+* ### [Resolução Lista de Exercicios no R: Regressão Linear Simples - Lista 01 2021](https://github.com/gustavowillam/AEDII/blob/main/Estatistica_II/Regressao_Linear_Simples/Aula04_L1.R)
+
+## [Aula 04 - Regressão Linear Simples - Lista 02 2021](https://github.com/gustavowillam/AEDII/blob/main/Estatistica_II/Regressao_Linear_Simples/Aula%202-Regress%C3%A3o%20Linear%20Simples-Lista%20de%20Exerc%C3%ADcios%202021.pdf)
+
+* ### [Resolução Lista de Exercicios no R: Regressão Linear Simples - Lista 02 2021](https://github.com/gustavowillam/AEDII/blob/main/Estatistica_II/Regressao_Linear_Simples/Aula04_L2.R)
+
+  
 ## Regressão Linear Múltipla 
+
+## [Aula 05 - Regressão Linear Múltipla - Lista 01 2021](https://github.com/gustavowillam/AEDII/blob/main/Estatistica_II/Regressao_Linear_Multipla/Aula%201-Regress%C3%A3o%20Linear%20M%C3%BAltipla-Lista%20de%20Exerc%C3%ADcios%202021.pdf)
+
+* ### [Resolução Lista de Exercicios no R: Regressão Linear Múltipla - Lista 01 2021](https://github.com/gustavowillam/AEDII/blob/main/Estatistica_II/Regressao_Linear_Multipla/Aula05_L1.R)
+
+## [Aula 05 - Regressão Linear Múltipla - Lista 02 2021](https://github.com/gustavowillam/AEDII/blob/main/Estatistica_II/Regressao_Linear_Multipla/Aula%202-Regress%C3%A3o%20Linear%20M%C3%BAltipla-Lista%20de%20Exerc%C3%ADcios%202021.pdf)
+
+* ### [Resolução Lista de Exercicios no R: Regressão Linear Múltipla - Lista 02 2021](https://github.com/gustavowillam/AEDII/blob/main/Estatistica_II/Regressao_Linear_Multipla/Aula05_L2.R)
+  
 
 ## Regressão Polinomial
 
+* ### [Resolução Exercicio - dataset Boston House Price](https://github.com/gustavowillam/AEDII/blob/main/Estatistica_II/Regressao_Polinomial/Example_Gustavo_Polinomial.R)
+
 ## Regressão Logistica
+
+## [Aula 06 - Regressão Logistica - Lista 01 2021](https://github.com/gustavowillam/AEDII/blob/main/Estatistica_II/Regressao_Logistica/Aula%201-Regress%C3%A3o%20Log%C3%ADstica-Lista%20de%20Exerc%C3%ADcios%202021.pdf)
+
+* ### [Resolução Lista de Exercicios no R: Regressão Logistica - Lista 01 2021](https://github.com/gustavowillam/AEDII/blob/main/Estatistica_II/Regressao_Logistica/Aula06_L1_Leisa_Logistic.R)
+ 
 
 ## Atividades Avaliativas - Estatística II 
 
