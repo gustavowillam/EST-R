@@ -104,6 +104,9 @@ Obs: Não fazer exercício 3a
 
 * ### [Resolução Exercicio - dataset Boston House Price](https://github.com/gustavowillam/AEDII/blob/main/Estatistica_II/Regressao_Polinomial/Example_Gustavo_Polinomial.R)
 
+* ### [Resolução Exercicio - Leisa](https://github.com/gustavowillam/AEDII/blob/main/Estatistica_II/Regressao_Polinomial/Aula06_L2_Leisa_Polinomial.R)
+
+
 ## Regressão Logistica
 
 ## [Aula 06 - Regressão Logistica - Lista 01 2021](https://github.com/gustavowillam/AEDII/blob/main/Estatistica_II/Regressao_Logistica/Aula%201-Regress%C3%A3o%20Log%C3%ADstica-Lista%20de%20Exerc%C3%ADcios%202021.pdf)
