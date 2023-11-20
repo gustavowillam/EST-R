@@ -111,6 +111,8 @@ Obs: Não fazer exercício 3a
 
 ## [Aula 06 - Regressão Logistica - Lista 01 2021](https://github.com/gustavowillam/AEDII/blob/main/Estatistica_II/Regressao_Logistica/Aula%201-Regress%C3%A3o%20Log%C3%ADstica-Lista%20de%20Exerc%C3%ADcios%202021.pdf)
 
+* ### [Aula 06 - Regressão Logistica - Lista 01 2021-Gabarito](https://github.com/gustavowillam/AEDII/blob/main/Estatistica_II/Regressao_Logistica/Aula%201-Regress%C3%A3o%20Log%C3%ADstica-Lista%20de%20Exerc%C3%ADcios%202021-Resolu%C3%A7%C3%A3o.pdf)
+
 * ### [Resolução Lista de Exercicios no R: Regressão Logistica - Lista 01 2021](https://github.com/gustavowillam/AEDII/blob/main/Estatistica_II/Regressao_Logistica/Aula06_L1_Leisa_Logistic.R)
  
 
