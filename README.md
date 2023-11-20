@@ -116,5 +116,11 @@ Obs: Não fazer exercício 3a
 * ### [Resolução Lista de Exercicios no R: Regressão Logistica - Lista 01 2021](https://github.com/gustavowillam/AEDII/blob/main/Estatistica_II/Regressao_Logistica/Aula06_L1_Leisa_Logistic.R)
  
 
-## Atividades Avaliativas - Estatística II 
+## Prova Prática - Estatística II & AEDII
+
+## [Prova - Est. II](https://github.com/gustavowillam/AEDII/blob/main/Estatistica_II/Regressao_Logistica/PROVA%202%20-%20GTI.pdf)
+
+## [DataSets Prova - Est. II](https://github.com/gustavowillam/AEDII/blob/main/Estatistica_II/Regressao_Logistica/Datasets_Prova.zip)
+
+## [Gabarito Prova - Est. II](https://github.com/gustavowillam/AEDII/blob/main/Estatistica_II/Regressao_Logistica/gabarito_prova.zip)
 
